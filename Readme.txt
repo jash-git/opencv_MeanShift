@@ -1,4 +1,4 @@
-﻿OPENCV 彩色圖像分割與抓取定位
+﻿OPENCV 彩色圖像分割與抓取定位[ meanshift ]
 
 
 01.https://mp.weixin.qq.com/s/Wa64-PjRAgZU_j5EmRQiPg
